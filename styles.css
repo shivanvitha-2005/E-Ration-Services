@@ -1,0 +1,88 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+#Title-page{
+  background-color: #66BFBF;
+  color:#fff;
+}
+
+#features{
+  padding: 10% 4% 10%;
+}
+/* #Product-descrption{
+
+   background-color: #8f8f8f;
+} */
+.container-fluid{
+  margin:0 10px;
+}
+h1{
+  font-family: 'Open Sans', sans-serif;
+  color:  #000;
+  font-size: 3.1rem;
+  line-height: 1.5;
+  margin-bottom: 5%
+}
+h2{
+  color: #000;
+  padding-bottom: 5%;
+}
+h3{
+  font-family: 'Open Sans', sans-serif;
+  color: #66BFBF;
+  font-size: 1.5rem;
+  line-height: 1.2;
+}
+
+p{
+  color: #8f8f8f;
+}
+.tit{
+  text-align: center;
+  padding-bottom: 5%;
+  padding-top: 4%;
+}
+.navbar{
+  padding: 60px 40px 50px 35px;
+}
+
+.navbar-brand{
+  font-size: 1.8rem;
+}
+
+.nav-item{
+  font-size:18px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.download-button{
+  margin: 6px 2px 5px ;
+
+}
+
+.features-box{
+  text-align: center;
+  padding: 5% 0 5%
+}
+
+ #Product-descrption{
+  background-color: #66BFBF;
+  height: 400px;
+  text-align: center;
+  color:#fff;
+}
+
+.slides{
+    padding: 10% 20% 10% 15%;
+}
+
+.pro-img{
+padding: 3%;
+ border-radius: 100%;
+}
+
+.features-icon{
+  margin-bottom: 5%;
+}
