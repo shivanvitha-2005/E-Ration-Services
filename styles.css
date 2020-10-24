@@ -86,3 +86,9 @@ padding: 3%;
 .features-icon{
   margin-bottom: 5%;
 }
+
+.install{
+  text-align: center;
+  padding: 3% 1% 2% 27%;
+  background-color:#EAF6F6;
+}
