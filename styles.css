@@ -18,7 +18,8 @@ body{
   margin:0 10px;
 }
 h1{
-  font-family: 'Open Sans', sans-serif;
+  /* font-family: 'Open Sans', sans-serif; */
+  font-family: 'Montserrat', sans-serif;
   color:  #000;
   font-size: 3.1rem;
   line-height: 1.5;
@@ -36,6 +37,7 @@ h3{
 }
 
 p{
+  font-family: 'Montserrat', sans-serif;
   color: #8f8f8f;
 }
 .tit{
@@ -45,14 +47,16 @@ p{
 }
 .navbar{
   padding: 60px 40px 50px 35px;
+  font-family: 'Ubuntu', sans-serif;
+
 }
 
 .navbar-brand{
-  font-size: 1.8rem;
+  font-size: 2.2rem;
 }
 
 .nav-item{
-  font-size:18px;
+  font-size:1.4rem;
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -64,7 +68,8 @@ p{
 
 .features-box{
   text-align: center;
-  padding: 5% 0 5%
+  padding: 5% 0 5%;
+
 }
 
  #Product-descrption{
