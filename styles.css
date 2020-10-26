@@ -159,7 +159,7 @@ background-size: cover;
 } */
 
 .progress-bar {
-  height: 8px;
-  background: #ccc;
+  height: 14.5px;
+  background: #28df99;
   width: 0%;
 }
