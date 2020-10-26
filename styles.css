@@ -138,6 +138,19 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 
+.fixed-design{
+padding-top: 20%;
+padding-bottom: 15%;
+text-align: center;
+background-image:url("design.jpg");
+
+min-height: 550px;
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
 .tu{
   text-align: center;
 }
@@ -159,7 +172,7 @@ background-size: cover;
 } */
 
 .progress-bar {
-  height: 14.5px;
+  height: 14px;
   background: #28df99;
   width: 0%;
 }
