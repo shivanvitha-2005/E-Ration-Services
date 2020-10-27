@@ -96,21 +96,24 @@ padding: 3%;
 
 .features-icon{
   margin-bottom: 5%;
+  color: #fff;
 }
 
 .fab:hover{
   color: #000;
 }
+
 .sl:hover{
   color: #000;
 }
+
 .features-icon:hover{
-  color: #66BFBF;
+  color: #64958f;
 }
 
 .install{
   text-align: center;
-  padding: 15% 0 10% 0;
+  padding: 10% 0 10% 0;
   background-color:#EAF6F6;
 }
 
