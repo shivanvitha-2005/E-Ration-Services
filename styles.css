@@ -179,3 +179,12 @@ background-size: cover;
   background: #28df99;
   width: 0%;
 }
+
+[data-aos="rotate-c"] {
+  transform: rotate(-180deg);
+  transition-property: transform;
+}
+
+[data-aos="rotate-c"].aos-animate {
+  transform: rotate(0deg);
+}
